@@ -1,0 +1,9 @@
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\bin\Debug\Repository.dll
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\bin\Debug\Repository.pdb
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\bin\Debug\Model.dll
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\bin\Debug\Model.pdb
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\obj\Debug\Repository.dll
+C:\Users\Leonardo\source\repos\WpfDecorator\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A1106246-6E2D-41CE-A621-D598E0DCC708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{D1434D68-832A-4954-9550-551B52AA2E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{52E7F8D0-6579-4435-A6D8-3218726A5F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1106246-6E2D-41CE-A621-D598E0DCC708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1106246-6E2D-41CE-A621-D598E0DCC708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1106246-6E2D-41CE-A621-D598E0DCC708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1106246-6E2D-41CE-A621-D598E0DCC708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1434D68-832A-4954-9550-551B52AA2E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1434D68-832A-4954-9550-551B52AA2E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1434D68-832A-4954-9550-551B52AA2E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1434D68-832A-4954-9550-551B52AA2E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E7F8D0-6579-4435-A6D8-3218726A5F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E7F8D0-6579-4435-A6D8-3218726A5F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E7F8D0-6579-4435-A6D8-3218726A5F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E7F8D0-6579-4435-A6D8-3218726A5F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8A1D61-F8E2-4494-9FEC-CB2FE4264037}
+	EndGlobalSection
+EndGlobal
